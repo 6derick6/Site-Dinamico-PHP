@@ -97,7 +97,7 @@
                     <ul>
                         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</li>
                         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</li>
-                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</li>
+                        <li>Lorem ispsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</li>
                     </ul>
                 </div>
             </div>
