@@ -6,6 +6,9 @@
     <title>Projeto Site Dinâmico</title>
     <meta name="keywords" content="site,dinamico,projeto">
     <meta name="description" content="Descrição do meu site">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style/font-awesome.min.css">
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
     <header>
@@ -57,17 +60,17 @@
         <div class="center">
             <h2 class="title">Especialidades</h2>
             <div class="box-especialidade">
-                <h3>icone 1</h3>
+                <h3><i class="fa fa-css3" aria-hidden="true"></i></h3>
                 <h3>CSS3</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
             <div class="box-especialidade">
-                <h3>icone 2</h3>
-                <h3>HTML</h3>
+                <h3><i class="fa fa-html5" aria-hidden="true"></i></h3>
+                <h3>HTML5</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
             <div class="box-especialidade">
-                <h3>icone 3</h3>
+                <h3><i class="fa fa-gg-circle" aria-hidden="true"></i></h3>
                 <h3>JAVASCRIPT</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
