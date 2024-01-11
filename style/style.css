@@ -4,3 +4,65 @@
     box-sizing: border-box;
     font-family: "Open Sans";
 }
+
+.center{
+    max-width: 1280px;
+    padding: 0 2%;
+    margin: 0 auto;
+}
+
+.w33{
+    width: 33%;
+}
+
+.w50{
+    width: 50%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+
+header{
+    background: #3D437A;
+    padding: 25px 0;
+}
+
+header .logo{
+    font-size: 25px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: white;
+}
+
+.mobile{
+    display: none;
+}
+
+nav.desktop ul{
+    position: relative;
+    top: 6px;
+    list-style-type: none;
+}
+
+nav.desktop li{
+    font-weight: 300;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 0 30px;
+    font-size: 15px;
+}
+
+nav.desktop a{
+    color: white;
+    text-decoration: none;
+}
