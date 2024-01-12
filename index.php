@@ -86,22 +86,22 @@
 
     <section class="extras">
         <div class="center">
-            <div class="w50 left">
-                <h2 class="title">Depoimentos</h2>
+            <div class="w50 left depoimentos-container">
+                <h2 class="title">Depoimentos dos nossos clientes</h2>
                 <div class="depoimento-single">
-                    <p class="depoimento-descricao">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</p>
+                    <p class="depoimento-descricao">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui."</p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div>
                 <div class="depoimento-single">
-                    <p class="depoimento-descricao">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</p>
+                    <p class="depoimento-descricao">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui."</p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div>
                 <div class="depoimento-single">
-                    <p class="depoimento-descricao">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui.</p>
+                    <p class="depoimento-descricao">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget, euismod dui."</p>
                     <p class="nome-autor">Lorem Ipsum</p>
                 </div>
             </div>
-            <div class="w50 left">
+            <div class="w50 left servicos-container">
                 <h2 class="title">Serviços</h2>
                 <div class="servicos">
                     <ul>
