@@ -67,19 +67,20 @@
             <h2 class="title">Especialidades</h2>
             <div class="w33 left box-especialidade">
                 <h3><i class="fa fa-css3" aria-hidden="true"></i></h3>
-                <h3>CSS3</h3>
+                <h4>CSS3</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
             <div class="w33 left box-especialidade">
                 <h3><i class="fa fa-html5" aria-hidden="true"></i></h3>
-                <h3>HTML5</h3>
+                <h4>HTML5</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
             <div class="w33 left box-especialidade">
                 <h3><i class="fa fa-gg-circle" aria-hidden="true"></i></h3>
-                <h3>JAVASCRIPT</h3>
+                <h4>JAVASCRIPT</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a odio laoreet, tristique quam eget</p>
             </div>
+            <div class="clear"></div>
         </div>
     </section>
 
