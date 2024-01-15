@@ -120,5 +120,14 @@
             <p>Todos os diretos reservados</p>
         </div>
     </footer>
+
+    <script src="js/jquery.js"></script>
+    <script>
+        $(function(){
+            // var mensagem = 'Ola mundo';
+            // console.log("Ola");
+            // alert(mensagem);
+        })
+    </script>
 </body>
 </html>
