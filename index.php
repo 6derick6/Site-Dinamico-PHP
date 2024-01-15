@@ -13,7 +13,7 @@
 <body>
     <header>
         <div class="center">
-            <div class="logo left">Logomarca</div>
+            <div class="logo left"><a href="/">Logomarca</a></div>
             <nav class="desktop right">
                 <ul>
                     <li><a href="">Home</a></li>
@@ -122,12 +122,6 @@
     </footer>
 
     <script src="js/jquery.js"></script>
-    <script>
-        $(function(){
-            // var mensagem = 'Ola mundo';
-            // console.log("Ola");
-            // alert(mensagem);
-        })
-    </script>
+    <script src="js/scripts.js"></script>
 </body>
 </html>
