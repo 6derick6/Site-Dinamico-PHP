@@ -1,3 +1,4 @@
+<?php include('config.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,19 +8,20 @@
     <meta name="keywords" content="site,dinamico,projeto">
     <meta name="description" content="Descrição do meu site">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style/font-awesome.min.css">
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>style/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>style/style.css">
 </head>
 <body>
+
     <header>
         <div class="center">
             <div class="logo left"><a href="/">Logomarca</a></div>
             <nav class="desktop right">
                 <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Sobre</a></li>
-                    <li><a href="">Serviços</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>">Home</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
                 </ul>
             </nav>
             <nav class="mobile right">
@@ -27,10 +29,10 @@
                     <i class="fa fa-bars" aria-hidden="true"></i>
                 </div>
                 <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Sobre</a></li>
-                    <li><a href="">Serviços</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>">Home</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
                 </ul>
             </nav>
             <div class="clear"></div>
@@ -57,7 +59,7 @@
             </div>
         </div>        
         <div class="w50 left">
-            <img class="right" src="images/foto.jfif" />
+            <img class="right" src="<?php echo INCLUDE_PATH; ?>images/foto.jfif" />
         </div>
         <div class="clear"></div>
     </section>
@@ -121,7 +123,7 @@
         </div>
     </footer>
 
-    <script src="js/jquery.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="<?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
+    <script src="<?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 </body>
 </html>
